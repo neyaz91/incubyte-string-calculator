@@ -11,7 +11,8 @@ A TypeScript implementation of the String Calculator Kata using Test-Driven Deve
 - Throws error for negative numbers
 
 ## Project Structure
-├── src
+
+├── src 
 ├── tests
 ├── .gitignore
 ├── jest.config.js
@@ -20,11 +21,11 @@ A TypeScript implementation of the String Calculator Kata using Test-Driven Deve
 ├── tsconfig.json
 ├── README.md
 
-StringCalculator.ts: Contains the implementation of the add function.
-StringCalculator.test.ts: Contains unit tests for the add function.
-jest.config.js: Configuration for running tests with Jest.
-tsconfig.json: TypeScript configuration file.
-package.json: Project dependencies and scripts.
+- StringCalculator.ts: Contains the implementation of the add function.
+- StringCalculator.test.ts: Contains unit tests for the add function.
+- jest.config.js: Configuration for running tests with Jest.
+- tsconfig.json: TypeScript configuration file.
+- package.json: Project dependencies and scripts.
 
 ## Setup
 Install dependencies npm install
